@@ -1,0 +1,101 @@
+"Patient.Gender.Code","Place.of.Service.Desc","Provider.Network.Status.Desc","Type.of.Service.Desc","agegroup","Acute","RH_Chronic","ChronicCat","2012Chronic","LTMidrange","LTAt-Risk","LTAll absences Midrange","LTAll absences At-Risk","Procedure.Code","Primary.Diagnosis.Code","Provider.Specialty.Desc","Claims.Settled.Paid.Amt"
+"F","Office-Clinic","In-Network","Medical Care (Includes Chemical Dependency)","Between_51_60",FALSE,TRUE,"Arthritis",1,18,31,15,30,"99213","OTH1","Othtrivial",762
+"F","Office-Clinic","In-Network","Laboratory","Between_51_60",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Othtrivial",1571.6
+"F","Office-Clinic","In-Network","Medical Care (Includes Chemical Dependency)","Between_21_30",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Othtrivial",369
+"F","Office-Clinic","In-Network","Laboratory","Between_21_30",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Othtrivial",21
+"F","Independent Lab","In-Network","Laboratory","Between_21_30",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Othtrivial",693.24
+"F","Office-Clinic","In-Network","Medical Care (Includes Chemical Dependency)","Between_21_30",FALSE,TRUE,"Arthritis",1,18,31,15,30,"99214","OTH1","Othtrivial",231.5
+"F","Independent Lab","In-Network","Laboratory","Between_31_40",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Othtrivial",685
+"F","Office-Clinic","In-Network","Medical Care (Includes Chemical Dependency)","Between_31_40",FALSE,TRUE,"Arthritis",1,18,31,15,30,"99214","OTH1","Othtrivial",926
+"F","Office-Clinic","In-Network","Medical Care (Includes Chemical Dependency)","Between_31_40",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Othtrivial",60
+"F","Office-Clinic","In-Network","Medical Care (Includes Chemical Dependency)","Between_51_60",FALSE,TRUE,"Arthritis",1,18,31,15,30,"99214","OTH1","Othtrivial",1637
+"F","Office-Clinic","In-Network","Medical Care (Includes Chemical Dependency)","Between_51_60",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Othtrivial",2047.53
+"F","Office-Clinic","In-Network","Surgery","Between_31_40",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Othtrivial",85
+"F","Office-Clinic","In-Network","Medical Care (Includes Chemical Dependency)","Between_31_40",FALSE,TRUE,"Arthritis",1,18,31,15,30,"99213","OTH1","Othtrivial",373
+"F","Office-Clinic","In-Network","Laboratory","Between_31_40",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Othtrivial",543.5
+"F","Office-Clinic","In-Network","Drugs and Injections","Between_31_40",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Othtrivial",3.51
+"F","Office-Clinic","In-Network","Laboratory","Between_31_40",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Family Practice",24.5
+"F","Office-Clinic","In-Network","Medical Care (Includes Chemical Dependency)","Between_41_50",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Othtrivial",253
+"F","Office-Clinic","In-Network","Laboratory","Between_41_50",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Othtrivial",392.5
+"F","Office-Clinic","In-Network","Medical Care (Includes Chemical Dependency)","Between_41_50",FALSE,TRUE,"Arthritis",1,18,31,15,30,"99213","OTH1","Family Practice",91
+"F","Outpatient","In-Network","Medical Care (Includes Chemical Dependency)","Between_41_50",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Family Practice",126.4
+"F","Independent Lab","Out-of-Network","Laboratory","Between_41_50",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Othtrivial",680
+"F","Outpatient","In-Network","Medical Care (Includes Chemical Dependency)","Between_41_50",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Othtrivial",81.6
+"F","Outpatient","In-Network","Laboratory","Between_41_50",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Hospital/Associate Hospital/Swing Bed/Rehab Center/Psychiatric/Alcohol/Drug/Government VA Hospital/Chemical Dependency/SNF Swing Bed/Rehab/Renal Dialysis Facili",532.04
+"F","Outpatient","In-Network","Ancillaries","Between_41_50",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Hospital/Associate Hospital/Swing Bed/Rehab Center/Psychiatric/Alcohol/Drug/Government VA Hospital/Chemical Dependency/SNF Swing Bed/Rehab/Renal Dialysis Facili",1557.49
+"F","Office-Clinic","In-Network","Medical Care (Includes Chemical Dependency)","Between_31_40",FALSE,TRUE,"Arthritis",1,18,31,15,30,"99213","OTH1","Family Practice",99
+"F","Outpatient","In-Network","Laboratory","Between_31_40",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Hospital/Associate Hospital/Swing Bed/Rehab Center/Psychiatric/Alcohol/Drug/Government VA Hospital/Chemical Dependency/SNF Swing Bed/Rehab/Renal Dialysis Facili",3143.33
+"F","Outpatient","In-Network","Professional Component","Between_31_40",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Othtrivial",17
+"M","Independent Lab","In-Network","Laboratory","Between_31_40",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Othtrivial",24.5
+"F","Independent Lab","In-Network","Laboratory","Between_51_60",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Othtrivial",337
+"F","Independent Lab","In-Network","Laboratory","GreaterThan_60",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Othtrivial",704.8
+"F","Office-Clinic","Out-of-Network","Medical Care (Includes Chemical Dependency)","Between_41_50",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Othtrivial",146
+"F","Office-Clinic","Out-of-Network","Medical Care (Includes Chemical Dependency)","Between_41_50",FALSE,TRUE,"Arthritis",1,18,31,15,30,"99213","OTH1","Othtrivial",148
+"F","Office-Clinic","Out-of-Network","Laboratory","Between_41_50",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Othtrivial",1002.3
+"F","Inpatient","Out-of-Network","Medical Care (Includes Chemical Dependency)","Between_21_30",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Othtrivial",1264
+"F","Office-Clinic","Out-of-Network","Medical Care (Includes Chemical Dependency)","Between_21_30",FALSE,TRUE,"Arthritis",1,18,31,15,30,"99214","OTH1","Othtrivial",388
+"F","Office-Clinic","In-Network","Medical Care (Includes Chemical Dependency)","lessEqual_20",FALSE,TRUE,"Arthritis",1,18,31,15,30,"99214","OTH1","Othtrivial",205
+"M","Office-Clinic","Out-of-Network","Medical Care (Includes Chemical Dependency)","Between_21_30",FALSE,TRUE,"Arthritis",1,18,31,15,30,"99213","OTH1","Othtrivial",1710
+"M","Office-Clinic","Out-of-Network","Laboratory","Between_21_30",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Othtrivial",1530.3
+"M","Office-Clinic","Out-of-Network","Chemotherapy","Between_21_30",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Othtrivial",8796
+"M","Office-Clinic","Out-of-Network","Drugs and Injections","Between_21_30",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Othtrivial",125987.41
+"M","Office-Clinic","In-Network","Medical Care (Includes Chemical Dependency)","Between_21_30",FALSE,TRUE,"Arthritis",1,18,31,15,30,"99213","OTH1","Othtrivial",74
+"M","Office-Clinic","Out-of-Network","Medical Care (Includes Chemical Dependency)","Between_21_30",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Othtrivial",470
+"F","Inpatient","In-Network","Diagnostic X-ray","Between_41_50",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Hospital/Associate Hospital/Swing Bed/Rehab Center/Psychiatric/Alcohol/Drug/Government VA Hospital/Chemical Dependency/SNF Swing Bed/Rehab/Renal Dialysis Facili",2977.71
+"F","Inpatient","In-Network","Laboratory","Between_41_50",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Hospital/Associate Hospital/Swing Bed/Rehab Center/Psychiatric/Alcohol/Drug/Government VA Hospital/Chemical Dependency/SNF Swing Bed/Rehab/Renal Dialysis Facili",2342.42
+"F","Inpatient","In-Network","Accommodations","Between_41_50",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Hospital/Associate Hospital/Swing Bed/Rehab Center/Psychiatric/Alcohol/Drug/Government VA Hospital/Chemical Dependency/SNF Swing Bed/Rehab/Renal Dialysis Facili",4277.91
+"F","Inpatient","In-Network","Ancillaries","Between_41_50",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Hospital/Associate Hospital/Swing Bed/Rehab Center/Psychiatric/Alcohol/Drug/Government VA Hospital/Chemical Dependency/SNF Swing Bed/Rehab/Renal Dialysis Facili",10874.24
+"M","Independent Lab","Out-of-Network","Laboratory","Between_41_50",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Othtrivial",3102.51
+"M","Office-Clinic","In-Network","Medical Care (Includes Chemical Dependency)","Between_31_40",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Othtrivial",666
+"M","Office-Clinic","In-Network","Laboratory","Between_31_40",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Othtrivial",204.5
+"F","Independent Lab","In-Network","Laboratory","Between_41_50",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Othtrivial",112
+"F","Office-Clinic","Out-of-Network","Medical Care (Includes Chemical Dependency)","Between_41_50",FALSE,TRUE,"Arthritis",1,18,31,15,30,"99214","OTH1","Othtrivial",851
+"F","Office-Clinic","In-Network","Medical Care (Includes Chemical Dependency)","Between_21_30",FALSE,TRUE,"Arthritis",1,18,31,15,30,"99213","OTH1","Othtrivial",191.5
+"F","Office-Clinic","In-Network","Technical Component","Between_51_60",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Orthopedic Surgery",31
+"F","Office-Clinic","In-Network","Professional Component","Between_51_60",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Othtrivial",42.5
+"F","Office-Clinic","Out-of-Network","Medical Care (Includes Chemical Dependency)","Between_31_40",FALSE,TRUE,"Arthritis",1,18,31,15,30,"99214","OTH1","Othtrivial",758
+"F","Office-Clinic","Out-of-Network","Medical Care (Includes Chemical Dependency)","Between_31_40",FALSE,TRUE,"Arthritis",1,18,31,15,30,"99213","OTH1","Othtrivial",637
+"F","Office-Clinic","Out-of-Network","Chemotherapy","Between_31_40",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Othtrivial",2700
+"F","Office-Clinic","Out-of-Network","Drugs and Injections","Between_31_40",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Othtrivial",38494.5
+"F","Outpatient","In-Network","Medical Care (Includes Chemical Dependency)","Between_31_40",FALSE,TRUE,"Arthritis",1,18,31,15,30,"99213","OTH1","Anesthesiology",58.4
+"F","Office-Clinic","Out-of-Network","Laboratory","Between_31_40",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Othtrivial",401.65
+"F","Office-Clinic","In-Network","Medical Care (Includes Chemical Dependency)","Between_41_50",FALSE,TRUE,"Arthritis",1,18,31,15,30,"99213","OTH1","Othtrivial",75
+"F","Outpatient","In-Network","Professional Component","Between_41_50",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Othtrivial",74.4
+"F","Office-Clinic","In-Network","Medical Care (Includes Chemical Dependency)","GreaterThan_60",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Othtrivial",1533.92
+"F","Office-Clinic","In-Network","Vision Care","GreaterThan_60",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Othtrivial",392
+"M","Office-Clinic","In-Network","Medical Care (Includes Chemical Dependency)","GreaterThan_60",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Othtrivial",309
+"M","Outpatient","In-Network","Laboratory","GreaterThan_60",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Hospital/Associate Hospital/Swing Bed/Rehab Center/Psychiatric/Alcohol/Drug/Government VA Hospital/Chemical Dependency/SNF Swing Bed/Rehab/Renal Dialysis Facili",1426.32
+"M","Office-Clinic","In-Network","Medical Care (Includes Chemical Dependency)","GreaterThan_60",FALSE,TRUE,"Arthritis",1,18,31,15,30,"99214","OTH1","Othtrivial",411
+"F","Outpatient","In-Network","Laboratory","lessEqual_20",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Hospital/Associate Hospital/Swing Bed/Rehab Center/Psychiatric/Alcohol/Drug/Government VA Hospital/Chemical Dependency/SNF Swing Bed/Rehab/Renal Dialysis Facili",165.51
+"M","Independent Lab","Out-of-Network","Laboratory","Between_21_30",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Othtrivial",32
+"M","Office-Clinic","In-Network","Medical Care (Includes Chemical Dependency)","Between_21_30",FALSE,TRUE,"Arthritis",1,18,31,15,30,"99214","OTH1","Othtrivial",55
+"F","Office-Clinic","In-Network","Medical Care (Includes Chemical Dependency)","GreaterThan_60",FALSE,TRUE,"Arthritis",1,18,31,15,30,"99214","OTH1","Othtrivial",969
+"F","Office-Clinic","In-Network","Laboratory","GreaterThan_60",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Othtrivial",40
+"F","Office-Clinic","In-Network","Medical Care (Includes Chemical Dependency)","Between_41_50",FALSE,TRUE,"Arthritis",1,18,31,15,30,"99214","OTH1","Othtrivial",205
+"F","Office-Clinic","In-Network","Maternity","Between_21_30",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Othtrivial",392.62
+"F","Office-Clinic","In-Network","Diagnostic X-ray","Between_21_30",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Othtrivial",207.2
+"F","Office-Clinic","In-Network","Technical Component","Between_51_60",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Othtrivial",221.6
+"F","Office-Clinic","In-Network","Medical Care (Includes Chemical Dependency)","Between_31_40",FALSE,TRUE,"Arthritis",1,18,31,15,30,"99214","OTH1","Family Practice",284
+"F","Office-Clinic","In-Network","Medical Care (Includes Chemical Dependency)","Between_21_30",FALSE,TRUE,"Arthritis",1,18,31,15,30,"99213","OTH1","Family Practice",78
+"F","Office-Clinic","In-Network","Laboratory","Between_21_30",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Family Practice",45
+"F","Outpatient","In-Network","Surgery","Between_51_60",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Othtrivial",582
+"F","Office-Clinic","In-Network","Chemotherapy","Between_51_60",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Othtrivial",762
+"F","Office-Clinic","In-Network","Drugs and Injections","Between_51_60",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Othtrivial",10393.06
+"F","Outpatient","In-Network","Anesthesia","Between_51_60",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Anesthesiology",700
+"F","Independent Lab","Out-of-Network","Laboratory","Between_51_60",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Othtrivial",379.5
+"F","Outpatient","In-Network","Diagnostic X-ray","Between_51_60",FALSE,TRUE,"Arthritis",1,18,31,15,30,"Y3200","OTH1","Hospital/Associate Hospital/Swing Bed/Rehab Center/Psychiatric/Alcohol/Drug/Government VA Hospital/Chemical Dependency/SNF Swing Bed/Rehab/Renal Dialysis Facili",812.66
+"F","Outpatient","In-Network","Ancillaries","Between_51_60",FALSE,TRUE,"Arthritis",1,18,31,15,30,"Y3600","OTH1","Hospital/Associate Hospital/Swing Bed/Rehab Center/Psychiatric/Alcohol/Drug/Government VA Hospital/Chemical Dependency/SNF Swing Bed/Rehab/Renal Dialysis Facili",2893.34
+"F","Outpatient","In-Network","Ancillaries","Between_51_60",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Hospital/Associate Hospital/Swing Bed/Rehab Center/Psychiatric/Alcohol/Drug/Government VA Hospital/Chemical Dependency/SNF Swing Bed/Rehab/Renal Dialysis Facili",27.86
+"F","Office-Clinic","In-Network","Medical Care (Includes Chemical Dependency)","GreaterThan_60",FALSE,TRUE,"Arthritis",1,18,31,15,30,"99213","OTH1","Othtrivial",459
+"F","Outpatient","In-Network","Diagnostic X-ray","GreaterThan_60",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Hospital/Associate Hospital/Swing Bed/Rehab Center/Psychiatric/Alcohol/Drug/Government VA Hospital/Chemical Dependency/SNF Swing Bed/Rehab/Renal Dialysis Facili",108.51
+"F","Office-Clinic","In-Network","Vision Care","Between_41_50",FALSE,TRUE,"Arthritis",1,18,31,15,30,"OTHE1","OTH1","Othtrivial",143
+"F","Office-Clinic","In-Network","Medical Care (Includes Chemical Dependency)","GreaterThan_60",FALSE,TRUE,"NonArthNonOsteo",1,29,32,29,32,"OTHE1","OTH1","Othtrivial",751.5
+"F","Office-Clinic","In-Network","Drugs and Injections","GreaterThan_60",FALSE,TRUE,"NonArthNonOsteo",1,29,32,29,32,"OTHE1","OTH1","Othtrivial",1214
+"F","Office-Clinic","Out-of-Network","Medical Care (Includes Chemical Dependency)","GreaterThan_60",FALSE,TRUE,"NonArthNonOsteo",1,29,32,29,32,"99214","OTH1","Othtrivial",292
+"F","Office-Clinic","Out-of-Network","Medical Care (Includes Chemical Dependency)","GreaterThan_60",FALSE,TRUE,"NonArthNonOsteo",1,29,32,29,32,"99213","OTH1","Othtrivial",256
+"F","Office-Clinic","Out-of-Network","Laboratory","GreaterThan_60",FALSE,TRUE,"NonArthNonOsteo",1,29,32,29,32,"OTHE1","OTH1","Othtrivial",61
+"F","Office-Clinic","Out-of-Network","Consultation","GreaterThan_60",FALSE,TRUE,"NonArthNonOsteo",1,29,32,29,32,"OTHE1","OTH1","Othtrivial",600.66
+"F","Office-Clinic","In-Network","Medical Care (Includes Chemical Dependency)","GreaterThan_60",FALSE,TRUE,"NonArthNonOsteo",1,29,32,29,32,"99213","OTH1","Othtrivial",389
+"F","Office-Clinic","In-Network","Laboratory","GreaterThan_60",FALSE,TRUE,"NonArthNonOsteo",1,29,32,29,32,"OTHE1","OTH1","Othtrivial",25.5
+"F","Office-Clinic","In-Network","Medical Care (Includes Chemical Dependency)","Between_41_50",FALSE,TRUE,"NonArthNonOsteo",1,29,32,29,32,"OTHE1","OTH1","Othtrivial",48
+"F","Independent Lab","Out-of-Network","Laboratory","Between_21_30",FALSE,TRUE,"NonArthNonOsteo",1,29,32,29,32,"OTHE1","OTH1","Othtrivial",426
