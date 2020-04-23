@@ -1,0 +1,40 @@
+Medical,,,ICD9_ICD10Master
+Certificate.Number,,,Description
+SOCIAL.SEC,,,MedianAbsentWorkOSHA
+Plan.Member.Last.Name,,,MedianLODCDC
+Plan.Member.Middle.Initial,,,MedianHospStay
+Plan.Member.First.Name,,,LSModify
+Certificate.Number...Member.Number,,,LSModifyCat
+Patient.First.Name,,,Acute
+Patient.Last.Name,,,RH_Chronic
+Patient.Age.At.Incurred.Date,,,ChronicCat
+Patient.Gender.Code,,,ChronicCatNew
+Relationship.to.Plan.Member.Desc,,,CoMorbity
+Provider.Charge.Amt,,,Preventative
+Claims.Settled.Paid.Amt,,,MajorDisease
+Provider.Name,,,DiseaseCategory
+Provider.City,,,DBCBackCode
+Provider.State,,,2012Chronic
+Provider.Specialty.Code,,,2012BodySystem
+Provider.Specialty.Desc,,,ComplicationTo
+Place.of.Service.Code,,,LTMidrange
+Place.of.Service.Desc,,,LTAt-Risk
+Provider.Network.Status.Desc,,,LTAll absences Midrange
+Type.of.Service.Code,,,LTAll absences At-Risk
+Type.of.Service.Desc,,,AvoidableER
+First.Service.Date,,,ApproximateEqual
+Last.Service.Date,,,ICD Indicator
+Settled.Date,,,SeqNum
+Admit.Date,,,ICDCode
+Discharge.Date,,,Deleted
+Procedure.Code,,,InOnline
+CPT.or.HCPC.Facility.Code,,,TempNotes
+Primary.Diagnosis.Code,,,DigestiveDisease
+Secondary.Valid.Diagnosis.Code,,,ChronicCatSubType
+Diagnosis.3.Valid.Code,,,DashboardPriority
+Diagnosis.4.Valid.Code,,,PCS
+Diagnosis.5.Valid.Code,,,DigestiveDiseaseVivante
+Diagnosis.6.Valid.Code,,,
+Diagnosis.7.Valid.Code,,,
+settleYEAR,,,
+agegroup,,,
